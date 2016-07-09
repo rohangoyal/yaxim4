@@ -1,0 +1,317 @@
+-injars 'D:\New folder (2)\yaxim4\namoNamoApp\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'D:\New folder (2)\yaxim4\namoNamoApp\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'E:\sdk\build-tools\23.0.1\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'D:\New folder (2)\yaxim4\namoNamoApp\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.hihello.app.activity.UIApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep class com.hihello.androidclient.chat.ChatWindow {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.chat.ChatWindow2 {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.PhoneDirectory {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.chat.OldChat {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.SettingPrefs {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.preferences.AccountPrefs {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.service.XMPPService {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.service.YaximBroadcastReceiver {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.data.ChatProvider {
+    <init>();
+}
+
+-keep class com.hihello.androidclient.data.RosterProvider {
+    <init>();
+}
+
+-keep class de.duenndns.ssl.MemorizingActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.SplashActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.RegistrationActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.VerificationPhoneNo {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.groupcontect {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.RecentChats {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.TermsCondition {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.MyProfile {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.EarnPoint {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.ProfilePicCropper {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.EditUserName {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.EditStatus {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.EditContact {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.SaveContact {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.UserProfile {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.ImageShow {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.MyWallet {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.LocationShare {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Ranking {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.SelectContactActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.ShareToActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.service.UploadServcie {
+    <init>();
+}
+
+-keep class com.hihello.app.service.DownloadServcie {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.ScaleImageActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.DailyMessageActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.BlockUserListActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.AudioRecorderActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.SmsVarifecation {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.jobs {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Creategroup {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Home {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.HomeMain_activity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Groupform {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.groupprofile {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Search {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.AllContacts {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.GetRecharge {
+    <init>();
+}
+
+-keep class com.hihello.group.Group {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Contact_us_activity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.DemoActivity {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Create_group {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Edit_groupname {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Edit_Address {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Group_view {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Zoomimage {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Group_comments {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Group_admin {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Group_common {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Show_joiner {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Edit_group {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.Group_view_main {
+    <init>();
+}
+
+-keep class com.hihello.app.activity.joinerquery {
+    <init>();
+}
+
+-keep class com.hihello.app.service.MyFirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver {
+    <init>();
+}
+
+-keep class com.google.android.gms.measurement.AppMeasurementService {
+    <init>();
+}
+
+-keep class com.google.firebase.provider.FirebaseInitProvider {
+    <init>();
+}
+
+-keep class com.google.android.gms.common.api.GoogleApiActivity {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver {
+    <init>();
+}
+
+-keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

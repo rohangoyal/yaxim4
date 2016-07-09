@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:gravity="center"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/txt_camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Camera"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:padding="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:text="Camera"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:padding="2dp"
+        android:background="#e7e7e7"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        />
+
+
+    <TextView
+        android:id="@+id/txt_gallary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gallery"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:text="Camera"
+        android:gravity="center"
+        android:padding="2dp"
+        android:background="#e7e7e7"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_CancelImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:fontFamily="sans-serif-condensed"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+           />
+
+        <!--<Button-->
+            <!--android:id="@+id/btn_UploadImage"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Upload"-->
+            <!--android:padding="10dp"-->
+            <!--android:layout_marginLeft="20dp"-->
+            <!--android:layout_weight="1"-->
+           <!--/>-->
+
+    </LinearLayout>
+
+</LinearLayout>

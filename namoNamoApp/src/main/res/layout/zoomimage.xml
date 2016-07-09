@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000">
+    <include layout="@layout/toolbar"
+        android:id="@+id/toolbar"></include>
+
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/relativeLayout2">-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="25dp"-->
+            <!--android:layout_height="25dp"-->
+            <!--android:padding="0dp"-->
+            <!--android:layout_marginLeft="10dp"-->
+            <!--android:layout_marginTop="5dp"-->
+            <!--android:id="@+id/imageView10"-->
+            <!--android:src="@drawable/backar" />-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="25dp"-->
+            <!--android:layout_height="25dp"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:id="@+id/imageView28"-->
+            <!--android:src="@drawable/downloadimage"-->
+            <!--android:layout_marginRight="20dp"-->
+            <!--android:layout_marginEnd="20dp"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_toLeftOf="@+id/imageView29"-->
+            <!--android:layout_toStartOf="@+id/imageView29" />-->
+
+        <!--<ImageView-->
+            <!--android:layout_width="25dp"-->
+            <!--android:layout_height="25dp"-->
+            <!--android:id="@+id/imageView29"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:layout_marginRight="10dp"-->
+            <!--android:src="@drawable/imageshare"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_alignParentEnd="true" />-->
+
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textAppearance="?android:attr/textAppearanceMedium"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text=" Save "&ndash;&gt;-->
+            <!--&lt;!&ndash;android:padding="5dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:background="@drawable/btn_back"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/textView33"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#fff"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:fontFamily="sans-serif-condensed"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginRight="20dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_centerVertical="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_toLeftOf="@+id/textView34"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_toStartOf="@+id/textView34" />&ndash;&gt;-->
+
+        <!--&lt;!&ndash;<TextView&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textAppearance="?android:attr/textAppearanceMedium"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:text="Share"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:textColor="#fff"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:fontFamily="sans-serif-condensed"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:padding="5dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:background="@drawable/btn_back"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/textView34"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginRight="20dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginEnd="20dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_centerVertical="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentRight="true"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_alignParentEnd="true" />&ndash;&gt;-->
+    <!--</RelativeLayout>-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/relativeLayout3"
+        android:background="#000"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginBottom="20dp">
+
+        <!--<ImageView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:id="@+id/imageView12"-->
+            <!--android:layout_gravity="center" />-->
+    </RelativeLayout>
+</RelativeLayout>

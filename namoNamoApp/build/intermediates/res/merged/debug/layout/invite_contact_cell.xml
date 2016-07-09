@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    <com.hihello.app.activity.CircularImageView
+        android:id="@+id/img_contact"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/defaultuser"
+        android:layout_marginLeft="10dp"
+        android:scaleType="centerInside" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="10dp" >
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:fontFamily="sans-serif-condensed"
+            android:textColor="#000000"
+            android:text="Medium Text"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/txt_phone_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:fontFamily="sans-serif-condensed"
+            android:text="TextView" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_invite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/contact_back"
+        android:paddingBottom="3dp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginRight="5dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:paddingLeft="7dp"
+        android:paddingRight="7dp"
+        android:paddingTop="3dp"
+        android:text="Invite" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#d7d7d7"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="80dp"></LinearLayout>
+</LinearLayout>

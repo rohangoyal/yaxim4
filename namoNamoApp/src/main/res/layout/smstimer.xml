@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff">
+   <include 
+     android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+   <LinearLayout
+       android:layout_below="@+id/toolbar"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical" >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:gravity="center" >
+
+           <TextView
+               android:id="@+id/textView1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textColor="#000000"
+               android:textSize="16dp"
+               android:fontFamily="sans-serif-condensed"
+               android:gravity="center"
+               android:layout_marginTop="10dp"
+               android:text="Waiting to automatically detect an SMS sent to"
+               android:padding="10dp"/>
+           
+       </LinearLayout>
+       
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" 
+       android:orientation="vertical">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" 
+           android:gravity="center">
+
+           <TextView
+               android:id="@+id/phonnumber"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:text="+91 1234567890"
+               android:gravity="center"
+               android:textSize="20dp"
+               android:fontFamily="sans-serif-condensed"
+               android:textColor="#1E90FF"
+               android:textStyle="bold"
+               android:padding="10dp" />
+
+       </LinearLayout>
+       
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content" 
+       android:orientation="vertical">
+
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical" >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="1dp" 
+           android:background="#d3d3d3"
+           android:paddingTop="10dp"
+           android:paddingBottom="10dp"
+           android:layout_marginLeft="10dp"
+           android:layout_marginRight="10dp">
+       </LinearLayout>
+
+   </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp" >
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content" 
+           android:gravity="center">
+
+           <TextView
+               android:id="@+id/textView3"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:padding="10dp"
+               android:textSize="15dp"
+               android:fontFamily="sans-serif-condensed"
+               android:gravity="center"
+               android:textColor="#000000"
+               android:text="Thanks ! Did You Get A SMS PIN ?" />
+
+       </LinearLayout>
+
+   </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical"
+       android:gravity="center"
+       android:id="@+id/linearLayout6">
+       <!--<LinearLayout-->
+           <!--android:layout_width="match_parent"-->
+           <!--android:layout_height="wrap_content"-->
+           <!--android:orientation="horizontal"-->
+           <!--android:gravity="center">-->
+
+       <!--<TextView-->
+           <!--android:layout_width="wrap_content"-->
+           <!--android:layout_height="wrap_content"-->
+           <!--android:textColor="#FEAB40"-->
+           <!--android:textSize="20dp"-->
+           <!--android:textStyle="bold"-->
+           <!--android:text="Auto deduct verification failed." />-->
+           <!--<ImageView-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="wrap_content"-->
+               <!--android:src="@drawable/error"/>-->
+       <!--</LinearLayout>-->
+       <TextView
+           android:id="@+id/textView4"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:textColor="#1E90FF"
+           android:visibility="gone"
+           android:textStyle="bold"
+           android:text="Enter Your Four Digit Code That You Here" />
+
+   </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        android:gravity="center"
+        android:paddingBottom="5dp"
+        android:id="@+id/linearLayout5"
+        android:layout_below="@+id/linearLayout6"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:gravity="center"
+       android:visibility="gone"
+       android:id="@+id/number_layout"
+       android:layout_marginRight="35dp"
+       android:layout_marginLeft="35dp"
+       android:padding="5dp">
+
+      <!--<LinearLayout-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginLeft="5dp"-->
+               <!--android:gravity="left"-->
+               <!-->-->
+
+                <!--<ImageView-->
+                    <!--android:id="@+id/imageView2"-->
+                    <!--android:layout_width="30dp"-->
+                    <!--android:layout_height="30dp"-->
+                <!--android:layout_gravity="left"-->
+                    <!--android:padding="2dp"-->
+                    <!--android:src="@drawable/key1" />-->
+
+        <!--</LinearLayout>-->
+
+           <!--<LinearLayout-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="match_parent"-->
+               <!--android:orientation="horizontal"-->
+               <!--android:gravity="center"-->
+               <!--android:layout_marginLeft="20dp">-->
+
+               <!--<EditText-->
+                   <!--android:id="@+id/editText1"-->
+                   <!--android:layout_width="wrap_content"-->
+                   <!--android:layout_height="wrap_content"-->
+                   <!--android:inputType="number"-->
+                   <!--android:maxLength="1"-->
+                   <!--android:gravity="center"-->
+                   <!--android:paddingTop="1dp"-->
+                   <!--android:textColor="#000000"-->
+                   <!--android:textSize="20dp" >-->
+
+          <!--</EditText>-->
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="match_parent"-->
+               <!--android:orientation="horizontal"-->
+               <!--android:layout_marginLeft="20dp" >-->
+
+               <!--<EditText-->
+                   <!--android:id="@+id/editText2"-->
+                   <!--android:layout_width="wrap_content"-->
+                   <!--android:layout_height="wrap_content"-->
+                   <!--android:inputType="number"-->
+                    <!--android:maxLength="1"-->
+
+                   <!--android:paddingTop="1dp"-->
+                   <!--android:textColor="#000000"-->
+                   <!--android:textSize="20dp">-->
+
+          <!--</EditText>-->
+
+        <!--</LinearLayout>-->
+        <!--<LinearLayout-->
+               <!--android:layout_width="wrap_content"-->
+               <!--android:layout_height="match_parent"-->
+               <!--android:orientation="horizontal"-->
+               <!--android:layout_marginLeft="20dp" >-->
+
+               <!--<EditText-->
+                   <!--android:id="@+id/editText3"-->
+                   <!--android:layout_width="wrap_content"-->
+                   <!--android:layout_height="wrap_content"-->
+                   <!--android:inputType="number"-->
+                    <!--android:maxLength="1"-->
+
+                   <!--android:paddingTop="1dp"-->
+                   <!--android:textColor="#000000"-->
+                   <!--android:textSize="20dp" >-->
+
+          <!--</EditText>-->
+
+        <!--</LinearLayout>-->
+        <LinearLayout
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:orientation="horizontal"
+            android:gravity="center"
+               android:layout_marginLeft="20dp">
+
+               <EditText
+                   android:id="@+id/editText4"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:inputType="number"
+                    android:maxLength="4"
+                   android:hint="Verification Code"
+                   android:gravity="center"
+                   android:padding="10dp"
+                   android:textColor="#000000"
+                   android:textSize="20dp">
+
+          </EditText>
+
+        </LinearLayout>
+   </LinearLayout>
+        </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Verification"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:background="@drawable/btn_back"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        android:id="@+id/textView21"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/linearLayout5"
+        android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textAppearance="?android:attr/textAppearanceMedium"-->
+        <!--android:text="Ok"-->
+        <!--android:textColor="#000000"-->
+        <!--android:id="@+id/textView21"-->
+        <!--android:layout_gravity="center_horizontal" />-->
+
+
+</LinearLayout>

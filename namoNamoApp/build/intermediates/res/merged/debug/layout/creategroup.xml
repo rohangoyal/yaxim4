@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb" >
+ <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+     
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+      
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/toolbar"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/corner"
+        android:padding="2dp" >
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/corner" >
+
+            <ImageView
+                android:id="@+id/wallimage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:scaleType="centerCrop" />
+
+            <ImageView
+                android:id="@+id/adminpan"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/btn_edit_white" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rlayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="20dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bgnd"
+            android:elevation="4dp"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/admin"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ems="10"
+               android:layout_marginLeft="10dp"
+               android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:hint="Admin Name"
+                android:maxLines="1"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                >
+				
+                <requestFocus />
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="1dp"
+                    android:layout_height="38dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="#d3d3d3" />
+
+                <ImageView
+                    android:id="@+id/adminpencil"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/btn_edit" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@+id/rlayout1"
+        android:layout_marginTop="10dp" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/bgnd"
+            android:elevation="4dp"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/group"
+                android:layout_width="240dp"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:ems="10"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:hint="Group Name"
+                android:maxLines="2"
+                android:textColor="#000000"
+                android:textSize="20dp"
+                >
+
+                <requestFocus />
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="1dp"
+                    android:layout_height="38dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_centerHorizontal="true"
+                    android:background="#d3d3d3" />
+
+                <ImageView
+                    android:id="@+id/grouppencil"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="10dp"
+                    android:src="@drawable/btn_edit" />
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="26dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        
+    </LinearLayout>
+
+    <com.hihello.app.activity.CircularImageView
+        android:id="@+id/imageView1"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="10dp"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:layout_centerVertical="true"
+        android:src="@drawable/defaultuser" />
+    
+  
+
+</RelativeLayout>

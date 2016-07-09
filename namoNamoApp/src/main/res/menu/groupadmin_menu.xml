@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/send_media"
+        android:icon="@drawable/attechment"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/send_picture"
+                android:icon="@drawable/attach_gallery"
+                app:showAsAction="always"
+                android:title="Gallery">
+            </item>
+            <item
+                android:id="@+id/send_photo"
+                android:icon="@drawable/attach_camera"
+                app:showAsAction="always"
+                android:title="Photo">
+            </item>
+            <item
+                android:id="@+id/send_video"
+                android:icon="@drawable/attach_video"
+
+                android:title="Video">
+            </item>
+            <item
+                android:id="@+id/send_audio"
+                android:icon="@drawable/attach_audio"
+
+                android:title="Audio">
+            </item>
+            <item
+                android:id="@+id/send_location"
+                android:icon="@drawable/attach_location"
+
+                android:title="Location">
+            </item>
+            <item
+                android:id="@+id/send_contact"
+                android:icon="@drawable/attach_contact"
+
+                android:title="Contact">
+            </item>
+        </menu>
+    </item>
+    <item android:id="@+id/edit_group" android:title="Edit group"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/query" android:title="View query"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/clear" android:title="Clear chat"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+    <item android:id="@+id/delete" android:title="Delete"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

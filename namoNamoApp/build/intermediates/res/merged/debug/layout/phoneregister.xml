@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d3d3d3"
+    android:orientation="vertical" >
+<include 
+     android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#fafafa"
+      
+      android:padding="10dp"
+        android:layout_margin="10dp"        
+        android:gravity="center"
+        android:orientation="vertical" >
+        
+        <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed"
+                android:textSize="15dp"
+               
+                android:textColor="#1E90FF"
+            android:textStyle="bold|italic"
+            android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceSmallPopupMenu"
+                android:text="Hi Hello will send a one time SMS message to verify your phone number." />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="-8dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#fafafa"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textSize="15dp"
+                android:textColor="#1E90FF"
+                android:textStyle="bold|italic"
+                android:gravity="center"
+                android:fontFamily="sans-serif-condensed"
+                android:textAppearance="?android:attr/textAppearanceSmallPopupMenu"
+                android:text="Please confirm your country code and enter your Phone number" />
+          
+
+            <TextView
+                android:id="@+id/countrySpinner"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="0dp"
+                android:hint="Choose Country"
+                android:gravity="center"
+                android:textColor="#000000"
+                android:textSize="15dp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="India"
+                android:background="@drawable/box5"
+                android:layout_margin="10dp"
+                android:layout_marginRight="0dp"
+                 />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+  <EditText
+      android:id="@+id/et_country_code"
+      android:layout_width="wrap_content"
+      android:layout_height="match_parent"
+      android:layout_marginLeft="10dp"
+      android:layout_marginRight="10dp"
+      android:paddingLeft="10dp"
+      android:paddingRight="10dp"
+      android:fontFamily="sans-serif-condensed"
+      android:paddingTop="5dp"
+      android:paddingBottom="5dp"
+      android:text="+91"
+      android:gravity="center"
+
+       />
+
+            <EditText
+                android:id="@+id/txt_first_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="8dp"
+                android:fontFamily="sans-serif-condensed"
+                android:paddingBottom="8dp"
+                android:focusable="true"
+android:focusableInTouchMode="true"
+                android:inputType="number"
+                
+                android:layout_weight="0.73" />
+             <TextView
+                android:id="@+id/btn_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                 android:paddingRight="10dp"
+                 android:paddingTop="10dp"
+                 android:paddingBottom="10dp"
+                android:text="OK"
+                 android:fontFamily="sans-serif-condensed"
+                 android:textColor="#ffffff"
+                android:background="#1E90FF"
+                android:textAppearance="?android:attr/textAppearanceSmallPopupMenu" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

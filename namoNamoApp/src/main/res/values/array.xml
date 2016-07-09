@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="vibr_values">
+        <item>OFF</item>
+        <item>SYSTEM</item>
+        <item>ALWAYS</item>
+    </string-array>
+    <string-array name="vibr_values_displayed">
+        <item>Never</item>
+        <item>System preference</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="ringtone_values">
+        <item>OFF</item>
+        <item>NAMONAMO</item>
+    </string-array>
+    <string-array name="ringtone_values_displayed">
+        <item>Never</item>
+        <item>Namo Namo Ringtone</item>
+    </string-array>
+
+</resources>

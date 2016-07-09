@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <PreferenceCategory android:title="@string/privacy_title" >
+
+        <CheckBoxPreference
+            android:id="@+id/show_status"
+            android:defaultValue="true"
+            android:key="show_status"
+            android:summary="@string/everyone"
+            android:title="@string/show_status" />
+
+        <CheckBoxPreference
+            android:id="@+id/show_last_seen"
+            android:defaultValue="true"
+            android:key="show_last_seen"
+            android:summary="@string/everyone"
+            android:title="@string/last_seen" />
+
+        <CheckBoxPreference
+            android:id="@+id/show_profile"
+            android:defaultValue="true"
+            android:key="show_profile"
+            android:summary="@string/everyone"
+            android:title="@string/profile_picture" />
+    </PreferenceCategory>
+
+    <!--
+         <PreferenceCategory android:title="@string/preftitle_app" >
+
+        <Preference
+            android:summary="@string/choose_wallpaper"
+            android:title="@string/wallpaper" >
+        </Preference>
+
+        <ListPreference
+            android:id="@+id/setSizeChat"
+            android:defaultValue="18"
+            android:dialogTitle="@string/FontChat_dialog"
+            android:entries="@array/fontSizesChat"
+            android:entryValues="@array/fontSizesChatCodes"
+            android:key="setSizeChat"
+            android:summary="@string/FontChat_summ"
+            android:title="@string/FontChat_title" />
+    </PreferenceCategory>
+    -->
+
+    <PreferenceCategory android:title="@string/preftitle_notify" >
+
+        <CheckBoxPreference
+            android:id="@+id/led"
+            android:defaultValue="true"
+            android:key="led"
+            android:summary="@string/led_summ"
+            android:title="@string/led_title" />
+
+        <ListPreference
+            android:id="@+id/vibration"
+            android:defaultValue="SYSTEM"
+            android:entries="@array/vibr_values_displayed"
+            android:entryValues="@array/vibr_values"
+            android:key="vibration_list"
+            android:summary="@string/vibr_summ"
+            android:title="@string/vibr_title" />
+
+        <ListPreference
+            android:id="@+id/ringtone"
+            android:defaultValue="NAMONAMO"
+            android:entries="@array/ringtone_values_displayed"
+            android:entryValues="@array/ringtone_values"
+            android:key="ringtone"
+            android:summary="@string/ringtone_summ"
+            android:title="@string/ringtone_title" />
+
+        <!--
+             <RingtonePreference
+            android:id="@+id/ringtone"
+            android:key="ringtone"
+            android:ringtoneType="notification"
+            android:showDefault="true"
+            android:showSilent="true"
+            android:summary="@string/ringtone_summ"
+            android:title="@string/ringtone_title" />
+        -->
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/account_settings" >
+
+        <Preference
+            android:summary="@string/block_contact_summ"
+            android:title="@string/block_contact" >
+
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetClass="com.hihello.app.activity.BlockUserListActivity"
+                android:targetPackage="com.hihello.app" />
+        </Preference>
+
+        <Preference android:title="@string/change_number" >
+
+            <!--
+                 <intent
+                android:action="android.intent.action.VIEW"
+                android:targetClass="com.package.name.ActivityName"
+                android:targetPackage="com.package.name" />
+            -->
+        </Preference>
+
+        <Preference
+            android:summary="@string/delete_account_summ"
+            android:title="@string/delete_account" >
+
+            <!--
+                 <intent
+                android:action="android.intent.action.VIEW"
+                android:targetClass="com.package.name.ActivityName"
+                android:targetPackage="com.package.name" />
+            -->
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/help" >
+
+        <Preference android:title="@string/feedback" >
+
+            <!--
+                 <intent
+                android:action="android.intent.action.VIEW"
+                android:targetClass="com.package.name.ActivityName"
+                android:targetPackage="com.package.name" />
+            -->
+        </Preference>
+
+        <Preference android:title="@string/faq" >
+
+            <!--
+                 <intent
+                android:action="android.intent.action.VIEW"
+                android:targetClass="com.package.name.ActivityName"
+                android:targetPackage="com.package.name" />
+            -->
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

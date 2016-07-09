@@ -1,0 +1,66 @@
+apply plugin: 'com.android.application'
+
+
+repositories {
+    mavenCentral()
+    maven {
+        url "https://oss.sonatype.org/content/repositories/snapshots"
+    }
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.hiihello.app"
+        minSdkVersion 15
+        targetSdkVersion 23
+        multiDexEnabled true
+
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':emojiconKeyboard')
+    compile project(':cropper')
+    compile project(':memorizingTrustManager')
+    compile 'com.android.support:appcompat-v7:23.1.0"'
+    compile files('libs/android-query.0.26.7.jar')
+    compile files('libs/asmack-android-8.jar')
+    compile files('libs/httpmime-4.1.jar')
+    compile files('libs/jzlib.jar')
+    compile files('libs/ksoap2.jar')
+    compile files('libs/libidn-1.26.jar')
+    compile files('libs/recaptcha4j.jar')
+    compile 'com.android.support:recyclerview-v7:22.0.+'
+    compile 'com.android.support:design:23.1.0'
+    compile 'de.hdodenhof:circleimageview:1.3.0'
+    compile 'com.android.support:cardview-v7:22.2.1'
+    compile 'com.viewpagerindicator:library:2.4.1@aar'
+    compile 'org.jbundle.util.osgi.wrapped:org.jbundle.util.osgi.wrapped.org.apache.http.client:4.1.2'
+    compile files('libs/picasso-2.5.2.jar')
+    compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+    compile 'com.viewpagerindicator:library:2.4.1@aar'
+    compile 'com.miguelcatalan:materialsearchview:1.4.0'
+    compile project(':progressviewslib')
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+    compile 'com.github.clans:fab:1.6.2'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    compile 'com.google.firebase:firebase-core:9.0.0'
+    compile 'com.google.firebase:firebase-messaging:9.0.0'
+    compile 'com.google.android.gms:play-services-maps:9.0.0'
+}
+apply plugin: 'com.google.gms.google-services'

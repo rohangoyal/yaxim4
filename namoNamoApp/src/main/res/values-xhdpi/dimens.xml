@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="profile_pic_width">327dp</dimen>
+    <dimen name="profile_pic_height">380dp</dimen>
+    
+    <dimen name="chat_media_height">270dp</dimen>
+    <dimen name="chat_media_width">270dp</dimen>
+    <dimen name="small_profile_pic_width">58dp</dimen>
+
+</resources>

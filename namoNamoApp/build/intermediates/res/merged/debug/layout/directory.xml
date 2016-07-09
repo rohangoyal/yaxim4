@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#d3d3d3"
+    tools:context="com.fructus.viewpagerindicator.MainActivity">
+    <include layout="@layout/toolbar3"
+        android:id="@+id/tool_bar"></include>
+
+    <include layout="@layout/list_header"
+        android:id="@+id/header"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:background="#d3d3d3"
+        android:layout_weight=".1">
+
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:id="@+id/listView2"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"
+            android:dividerHeight="2dp"
+            android:divider="#d3d3d3"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+
+</LinearLayout>

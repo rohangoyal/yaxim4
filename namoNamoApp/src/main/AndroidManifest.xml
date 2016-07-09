@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hihello.app"
+    android:versionCode="11"
+    android:versionName="1.0.11" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- <uses-permission android:name="android.permission.SEND_SMS" /> -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+        
+    <uses-permission android:name="android.permission.CAMERA" />
+        
+    <uses-feature android:name="android.hardware.camera" />
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
+    <!-- Keeps the processor from sleeping when a message is received. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <!-- Creates a custom permission so only this app can receive its messages. -->
+    <permission
+        android:name="com.hiihello.app.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.hiihello.app.permission.C2D_MESSAGE" />
+
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <!-- Network State Permissions to detect Internet status -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <permission
+        android:name="com.hihello.app.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.hihello.app.permission.MAPS_RECEIVE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".activity.UIApplication"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyA4MEL504CV1ZOUUsRatTavDm0RKTJ-ziM" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+
+
+        <!--
+             <activity
+            android:name=".MainWindow"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter
+                android:icon="@drawable/icon"
+                android:label="@string/app_name" >
+                <action android:name="android.intent.action.SEND" >
+                </action>
+
+                <category android:name="android.intent.category.DEFAULT" >
+                </category>
+
+                <data android:mimeType="text/*" >
+                </data>
+            </intent-filter>
+            <intent-filter
+                android:icon="@drawable/icon"
+                android:label="@string/app_name" >
+                <action android:name="android.intent.action.SENDTO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:host="jabber"
+                    android:scheme="imto" />
+            </intent-filter>
+        </activity>
+        -->
+
+        <activity
+            android:name="com.hihello.androidclient.chat.ChatWindow"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/AppTheme1"
+            android:windowSoftInputMode="stateVisible|adjustPan" >
+        </activity>
+        <activity
+            android:name="com.hihello.androidclient.chat.ChatWindow2"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/AppTheme1"
+            android:windowSoftInputMode="stateVisible|adjustPan" >
+        </activity>
+
+        <activity android:name=".activity.PhoneDirectory"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:label="Phone Directory"
+            ></activity>
+        <activity
+            android:name="com.hihello.androidclient.chat.OldChat"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+            android:windowSoftInputMode="stateHidden" >
+        </activity>
+        <activity
+            android:name=".activity.SettingPrefs"
+            android:label="@string/Menu_Settings"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity android:name="com.hihello.androidclient.preferences.AccountPrefs" >
+        </activity>
+
+        <service android:name="com.hihello.androidclient.service.XMPPService" >
+            <intent-filter>
+                <action android:name="de.hdmstuttgart.yaxim.XMPPSERVICE" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.hihello.androidclient.service.YaximBroadcastReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.hihello.androidclient.data.ChatProvider"
+            android:authorities="com.hihello.androidclient.provider.Chats"
+            android:exported="false" />
+        <provider
+            android:name="com.hihello.androidclient.data.RosterProvider"
+            android:authorities="com.hihello.androidclient.provider.Roster"
+            android:exported="false" />
+
+        <activity android:name="de.duenndns.ssl.MemorizingActivity" />
+        <activity
+            android:name=".activity.SplashActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.RegistrationActivity"
+            android:label="@string/registration"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.VerificationPhoneNo"
+            android:label="@string/verification"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysVisible" >
+        </activity>
+        <activity
+            android:name=".activity.groupcontect"
+            android:label="@string/about"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateAlwaysVisible" >
+        </activity>
+        <activity
+            android:name=".activity.RecentChats"
+            android:label="@string/recentchat"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".activity.BaseActivity" />
+        </activity>
+        <activity
+            android:name=".activity.TermsCondition"
+            android:label="@string/terms"
+            android:theme="@style/Theme.AppCompat.Light.DarkActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.MyProfile"
+            android:label="@string/myprofile"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.EarnPoint"
+            android:label="How To Earn"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.ProfilePicCropper"
+            android:label="@string/profilePic"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.EditUserName"
+            android:label="@string/enteryourname"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.EditStatus"
+            android:label="@string/setyourstatus"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.EditContact"
+            android:label="@string/contact"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.SaveContact"
+            android:label="@string/contact"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.UserProfile"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.ImageShow"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.MyWallet"
+            android:label="History"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.LocationShare"
+            android:label="@string/choose_location"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.Ranking"
+            android:label="@string/ranking"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.SelectContactActivity"
+            android:label="@string/selectcontact"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.ShareToActivity"
+            android:label="@string/appname"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="audio/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="video/*" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".service.UploadServcie"
+            android:enabled="true" >
+        </service>
+        <service
+            android:name=".service.DownloadServcie"
+            android:enabled="true" >
+        </service>
+
+        <activity
+            android:name=".activity.ScaleImageActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".activity.DailyMessageActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.BlockUserListActivity"
+            android:label="@string/blocked_user"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.AudioRecorderActivity"
+            android:theme="@android:style/Theme.Holo.Dialog.NoActionBar" >
+        </activity>
+        <activity android:name=".activity.SmsVarifecation" >
+        </activity>
+        <activity android:name=".activity.jobs" >
+        </activity>
+        <activity android:name=".activity.Creategroup" >
+        </activity>
+        <activity android:name=".activity.Home" >
+        </activity>
+        <activity
+            android:name=".activity.HomeMain_activity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.Groupform"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.groupprofile"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".activity.Search"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity android:name=".activity.AllContacts"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+
+            />
+        <activity
+            android:name=".activity.GetRecharge"
+            android:label="Get Recharge"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            >
+        </activity>
+
+        <activity
+            android:name="com.hihello.group.Group"
+            android:label="Group"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
+        <activity android:name=".activity.Contact_us_activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" ></activity>
+        <activity android:name=".activity.DemoActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+
+            ></activity>
+        <activity android:name=".activity.Create_group"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity android:name=".activity.Edit_groupname"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity android:name=".activity.Edit_Address"></activity>
+        <activity android:name=".activity.Group_view"></activity>
+        <activity android:name=".activity.Zoomimage"></activity>
+        <activity android:name=".activity.Group_comments"></activity>
+        <activity android:name=".activity.Group_admin"></activity>
+        <activity android:name=".activity.Group_common"></activity>
+        <activity android:name=".activity.Show_joiner"></activity>
+        <activity android:name=".activity.Edit_group"></activity>
+        <activity android:name=".activity.Group_view_main"></activity>
+        <activity android:name=".activity.joinerquery"></activity>
+        <service
+            android:name=".service.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>
+
+
+
+

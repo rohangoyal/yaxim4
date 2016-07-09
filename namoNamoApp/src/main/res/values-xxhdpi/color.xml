@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="hihello_color">#33B5E5</color>
+    <color name="darker_gray">#555555</color>
+    <color name="white">#ffffff</color>
+     <color name="orange">#00ADEF</color>
+    <color name="tabsScrollColor">#ffffff</color>
+</resources>
+

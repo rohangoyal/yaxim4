@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "D:\\New folder (2)\\yaxim4\\emojiconKeyboard\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 47,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\emojiconKeyboard\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 47,
+                        "endOffset": 954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 45,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\emojiconKeyboard\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 45,
+                        "endOffset": 57
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\emojiconKeyboard\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1443
+                    }
+                }
+            }
+        ]
+    }
+]

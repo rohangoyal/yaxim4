@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_offline.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_offline.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\stop_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\stop_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\searchicon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\searchicon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\sho.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\sho.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\group_indicator.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\group_indicator.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\searchcorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\searchcorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\backheaderimage.jpg",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\backheaderimage.jpg"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\othercon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\othercon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\pincorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\pincorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_backspace_front_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_emoji_backspace_front_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\count_bcg.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\count_bcg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\followbutton.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\followbutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\titleicon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\titleicon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\small_screen_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\small_screen_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\title.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cornersearch.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\cornersearch.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\hiround.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\hiround.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_photo_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_composer_attach_photo_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\nig.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\nig.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\redcounter.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\redcounter.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\comment_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\round_gray.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\round_gray.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_location_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_composer_attach_location_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_label_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\counterback.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\counterback.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\activedate.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\activedate.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\walletbackground.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\walletbackground.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edu.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\edu.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\downloadimage.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\downloadimage.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\followblue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\followblue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\tra.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\tra.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_places_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_places_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\pancil.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\pancil.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\hea.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\hea.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\mobcall.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\mobcall.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_contact_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_contact_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_chat.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_chat.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\chat.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\chat.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\date_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\date_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\pic_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_queue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_queue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\imagesave.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\imagesave.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroung_image.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\backgroung_image.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_video_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_video_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ser.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ser.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\hhh.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\hhh.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor_white.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable\\color_cursor_white.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\close_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\close_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_dark_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_emoji_tab_dark_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\full_screen_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\full_screen_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\itemcounter.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\itemcounter.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\item_whitebackground.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\item_whitebackground.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_all_friends_light.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_action_all_friends_light.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\hot.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\hot.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\delete.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_delete.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\dialog_delete.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\categoryiconwhite.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\categoryiconwhite.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\userprofile.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\userprofile.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\locationcs.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\locationcs.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_audio_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_audio_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\arrow1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\groupcorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\groupcorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_available.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_available.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\rightarrow.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\rightarrow.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\text_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\text_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_xa.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_xa.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_people_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_people_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\sb_message.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\sb_message.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button_active.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_composer_popup_button_active.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ordercorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ordercorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\logohi.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\logohi.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_nature_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_nature_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\like1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\like1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\unread_count.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\unread_count.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\corneredit.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\corneredit.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\contact_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\contect.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\contect.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_list_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\contact_list_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ordercorner1.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ordercorner1.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\logohihello.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\logohihello.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_all_friends_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_action_all_friends_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_popup_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_composer_popup_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\corner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\corner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_more_front_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_emoji_more_front_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\plus.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_online_friends_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_action_online_friends_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cell_you_chat.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\cell_you_chat.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\circleuser.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\circleuser.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_emoji_tab_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_emoji_tab_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\contact_back2.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\contact_back2.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\adduser.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\adduser.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\drawer.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutwhite.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\aboutwhite.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_subscribe.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_subscribe.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_closed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_group_closed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\recorder_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\recorder_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_group_opened.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_group_opened.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\trn.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\trn.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\personsearch.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\personsearch.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cate_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\cate_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\fim.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\fim.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\textview_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\textview_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\profileback.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\profileback.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_camera_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_camera_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\commentback.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\commentback.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\followerblack.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\followerblack.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\round.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\round.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\goe.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\goe.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\commentblue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\commentblue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\phoncorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\phoncorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_online_friends_light.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_action_online_friends_light.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\editphoto.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\editphoto.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\nextarow.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\nextarow.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\save_selector.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\save_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_symbols_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_symbols_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\tan.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\tan.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\orca_composer_attach_camera_button.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\orca_composer_attach_camera_button.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\edituser.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\edituser.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\btn_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\chatbackground.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\chatbackground.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\app.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bardefaultuser.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\bardefaultuser.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_recent_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_recent_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_offline.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_offline.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\addgroup.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\addgroup.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_away.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_away.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\change_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\change_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\round_rect.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\round_rect.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\unlike.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\unlike.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\bgnd.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\bgnd.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\backar.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\backar.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\editcorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\editcorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_online.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_online.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_status_dnd.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ic_status_dnd.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\group.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\group.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\topten.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\topten.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\dot1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\dot1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutblue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\aboutblue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_emoji_objects_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable\\ic_emoji_objects_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\imageshare.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\imageshare.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\cross.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_back.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\submit_back.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ent.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\ent.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\followwhite.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\followwhite.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\message_location_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\message_location_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\commentwhite.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\commentwhite.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\formcorner.xml",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\formcorner.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable\\res.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable\\res.png"
+    }
+]

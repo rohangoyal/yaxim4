@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_appicon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\ic_action_appicon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_all_friends_light.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\ic_action_all_friends_light.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\audio_attach.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\audio_attach.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\cont.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\cont.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_action_all_friends_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\ic_action_all_friends_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\contact_attach.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-ldpi\\contact_attach.png"
+    }
+]

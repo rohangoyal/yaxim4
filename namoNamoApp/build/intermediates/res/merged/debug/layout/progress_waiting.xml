@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+<include layout="@layout/toolbar"></include>
+
+    <ImageView
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:id="@+id/imageView4"
+        android:src="@drawable/logohi"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Please wait while"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:id="@+id/textView27"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Initiallizing Hi Hello App."
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:id="@+id/textView28"
+        android:layout_marginBottom="20dp"
+        android:layout_below="@+id/textView27"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@+id/textView28"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+    <com.natasa.progressviews.CircleProgressBar
+        android:id="@+id/circle_progress1"
+        android:layout_width="130dp"
+        android:layout_height="100dp"
+        app:bar_width="12dp"
+        app:progress_color="#d3f115"
+        app:progress_width="10dp"
+       />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="CONTINUE"
+        android:textColor="#fff"
+        android:visibility="invisible"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginLeft="25dp"
+        android:background="@drawable/btn_back"
+        android:gravity="center"
+        android:id="@+id/textView30"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp" />
+
+</RelativeLayout>

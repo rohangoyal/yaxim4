@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/join"
+        android:icon="@drawable/like1"
+        app:showAsAction="always"/>
+    <item android:id="@+id/share"
+        android:title="Share it"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/edit"
+        android:title="Search on web"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/comment"
+        android:title="Comment"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/follow"
+        android:title="Follower"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/about"
+        android:title="About"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+</menu>

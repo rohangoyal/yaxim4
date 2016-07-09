@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1E90FF">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hi Hello"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:fontFamily="sans-serif-condensed"
+            android:layout_marginLeft="10dp"
+            android:textStyle="bold"
+            android:gravity="center|start"
+            android:layout_weight=".1"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight=".2">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/search"
+            android:src="@drawable/search_btn"
+            android:layout_weight=".3"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_action_refresh"
+            android:gravity="center|bottom"
+            android:id="@+id/refresh"
+            android:layout_weight=".6"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"/>
+
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

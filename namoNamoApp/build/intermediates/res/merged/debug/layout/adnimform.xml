@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    tools:context="com.hihello.app.activity.MyProfile" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <include
+            android:id="@+id/header"
+            layout="@layout/header1" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="12dp"
+            android:paddingLeft="16dp"
+            android:layout_below="@+id/header"
+            android:paddingRight="16dp"
+            android:paddingTop="5dp" >
+
+            <RelativeLayout
+                android:layout_width="@dimen/profile_pic_width"
+                android:layout_height="360dp">
+
+                <RelativeLayout
+                    android:layout_width="@dimen/profile_pic_width"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="#fff"
+                    android:padding="3dp" >
+
+                    <ImageView
+                        android:id="@+id/profileImage"
+                        android:layout_width="match_parent"
+                        android:layout_height="250dp"
+                        android:layout_gravity="center_horizontal"
+                        android:scaleType="centerCrop" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="45dp"
+                        android:gravity="right"
+                        android:orientation="horizontal"
+                        android:paddingLeft="10dp"
+                        android:layout_alignBottom="@+id/profileImage"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:id="@+id/linearLayout">
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/divider_attach_vertical" />
+
+                        <ImageView
+                            android:id="@+id/img_edit_picture"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/btn_edit_white" />
+                    </LinearLayout>
+                </RelativeLayout>
+                <com.hihello.app.activity.CircularImageView
+                    android:id="@+id/imageView21"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="10dp"/>
+            </RelativeLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/round_rect"
+                android:orientation="vertical"
+                android:padding="10dp" >
+
+                <!--<TextView-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Name"-->
+                <!--android:textColor="@color/namonamo_color" />-->
+
+                <!--<ImageView-->
+                <!--android:id="@+id/img_type"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:paddingBottom="5dp"-->
+                <!--android:paddingTop="2dp"-->
+                <!--android:src="@android:color/darker_gray" />-->
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:id="@+id/txt_user_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:background="@null"
+                        android:hint="Enter Name"
+                        android:fontFamily="sans-serif-condensed"
+                        android:typeface="serif"
+                        android:textAppearance="?android:attr/textAppearanceMedium"
+                        android:textColor="#000" />
+
+                    <ImageView
+                        android:id="@+id/ImageView01"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:paddingRight="10dp"
+                        android:src="@drawable/divider_attach_vertical" />
+
+                    <ImageButton
+                        android:id="@+id/btn_name_edit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:background="@drawable/btn_edit" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/round_rect"
+                android:orientation="vertical"
+                android:padding="8dp" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:layout_below="@+id/linearLayout1"
+                    android:gravity="center"
+                    android:fontFamily="sans-serif-condensed"
+                    android:typeface="serif"
+                    android:text="This Is Only Your Profile Name.It Can Not Show In Contact List."
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:textColor="#00ADEF"
+                    android:textSize="14dp"
+                    android:textStyle="bold" />
+
+                <!--<TextView-->
+                <!--android:id="@+id/TextView01"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="Status"-->
+                <!--android:textColor="@color/namonamo_color" />-->
+
+                <!--<ImageView-->
+                <!--android:id="@+id/ImageView03"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:paddingBottom="5dp"-->
+                <!--android:paddingTop="2dp"-->
+                <!--android:src="@android:color/darker_gray" />-->
+
+                <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content" >-->
+
+                <!--<github.ankushsachdeva.emojicon.EmojiconTextView-->
+                <!--xmlns:emojicon="http://schemas.android.com/apk/res-auto"-->
+                <!--android:id="@+id/txt_status"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_weight="1"-->
+                <!--android:hint="No Status"-->
+                <!--android:textAppearance="?android:attr/textAppearanceMedium"-->
+                <!--android:textColor="#000"-->
+                <!--emojicon:emojiconSize="@dimen/emoji_size_small" />-->
+
+                <!--<ImageView-->
+                <!--android:id="@+id/img_icon"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="match_parent"-->
+                <!--android:paddingRight="10dp"-->
+                <!--android:src="@drawable/divider_attach_vertical" />-->
+
+                <!--<ImageButton-->
+                <!--android:id="@+id/btn_status_edit"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_gravity="bottom"-->
+                <!--android:background="@drawable/btn_edit" />-->
+                <!--</LinearLayout>-->
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

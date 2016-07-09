@@ -1,0 +1,1378 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\leftback.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\leftback.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\landline1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\landline1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_back_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_back_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box6.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box6.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_stop.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_stop.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attachments_arrow.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attachments_arrow.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_nature.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_nature.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_bg.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_bg.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_contact.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_contact.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\my_wallet.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\my_wallet.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_plug.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_menu_plug.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\close.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\like_us.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\like_us.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_divider_horizontal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_divider_horizontal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallet.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\wallet.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_front_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_front_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_refresh.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contact1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contact1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_divider_vertical.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_divider_vertical.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\like.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\like.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recent.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\recent.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\plus.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_active_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_active_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_video_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_video_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\raj.jpg",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\raj.jpg"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\home1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_mic.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_mic.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_player_bg.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_player_bg.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_status_unread.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\msg_status_unread.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_frame.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\video_frame.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_objects.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_objects.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group_opened.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_group_opened.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earnpoint.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\earnpoint.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settingdot.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\settingdot.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_recent_green.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\emoji_recent_green.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_objects_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_objects_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_cars.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_cars.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_audio_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_audio_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_close.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_close.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contacts.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contacts.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_btn_bg.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_btn_bg.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\atta.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\atta.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_send_now.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_send_now.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_edit.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_edit.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_map_fullscreen_off_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_map_fullscreen_off_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_task.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\cancel_task.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\online_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\online_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\group.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\group.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tagline1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\tagline1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\state.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\state.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_contact_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_contact_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_photo_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_photo_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_deliver.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_deliver.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mail.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\mail.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_stop_press.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_stop_press.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_unplug.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_menu_unplug.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_nature_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_nature_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\edit1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jjj.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\jjj.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_group_closed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_group_closed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbtn.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\searchbtn.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\websiteurl.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\websiteurl.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\creategroup1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\creategroup1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_action_search.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_action_search.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider_attach_vertical.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\divider_attach_vertical.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_item_selection.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\list_item_selection.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrowup.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\arrowup.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\website.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\website.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_nature_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_nature_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_camera_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_camera_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\key1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\key1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_places_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_places_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrowdown1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\arrowdown1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_keyboard.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_keyboard.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box2.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box2.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_deliver_on_media.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_deliver_on_media.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_symbols_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_symbols_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\people.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\people.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_background_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_recent_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_recent_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\city.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\city.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\header_bg.jpg",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\header_bg.jpg"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_online_friends_light.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_online_friends_light.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_navigation_close_inverted.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_navigation_close_inverted.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pencil_blue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\pencil_blue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_video.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_video.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_btn_bg_press.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_btn_bg_press.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupfrg.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\groupfrg.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_solid_light_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ranks.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ranks.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_punctuation.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_punctuation.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_symbols_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_symbols_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\new_chat.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\new_chat.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_navigation_close.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_navigation_close.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\categoryy.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\categoryy.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\about.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_sent.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_sent.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_online.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_online.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\location1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\location1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_voice_search.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_voice_search.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earn_points.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\earn_points.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\website1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\website1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\chat.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\archive.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\archive.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_camera_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_camera_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\search_clear.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_gallery.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_gallery.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msg_status_read.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\msg_status_read.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_places_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_places_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_ok.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_ok.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\address.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\address.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\invite_friends.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\invite_friends.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cht.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\cht.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_btn.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\search_btn.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recorder.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_recorder.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_suggestion.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_suggestion.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hhh.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\hhh.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_voice_search_inverted.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_voice_search_inverted.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abs__ab_stacked_solid_light_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactplus.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contactplus.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_map_fullscreen_on_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_map_fullscreen_on_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_online_friends_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_online_friends_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\admin.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\admin.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wallpaper.jpg",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_location_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_location_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chattting_copy.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\chattting_copy.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_share.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mobile1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\mobile1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_btn_play.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_btn_play.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_camera.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_seen.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_seen.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_photo_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_photo_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\groupfrgm.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\groupfrgm.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\smiley.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rupee.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\rupee.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\maincate.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\maincate.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_front_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_front_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_queue.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_queue.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box5.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box5.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\left_menu.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\left_menu.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_share.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pencil_white.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\pencil_white.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_offline.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_offline.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addres.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\addres.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\creategroup.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\creategroup.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_navigation_arrow_back_inverted.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_navigation_arrow_back_inverted.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bg1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\progress_bg1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\blockfrnd.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\blockfrnd.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\comingsoon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\comingsoon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attechment.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attechment.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\websitelink.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\websitelink.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrag.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\chatfrag.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_back_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_back_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fab_add.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.github.clans\\fab\\1.6.2\\res\\drawable-hdpi-v4\\fab_add.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\invitefrnd.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\invitefrnd.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\email.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_overlay_gallery_camera.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\frame_overlay_gallery_camera.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_forward.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_backspace_front_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_backspace_front_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactfrgm.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contactfrgm.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mick.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\mick.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cell_you_chat.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\cell_you_chat.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box3.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box3.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_audio.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_audio.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\frame_overlay_gallery_video.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\frame_overlay_gallery_video.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\congrrr.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\congrrr.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_dark.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_dark.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_edit_white.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_edit_white.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\alternate.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\alternate.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\key.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\key.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_btn_play_press.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_btn_play_press.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aaa.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\aaa.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_tab_active.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_tab_active.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_sent_on_media.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_sent_on_media.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\error.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\error.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settingdot1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\settingdot1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mviewer_button_share.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\mviewer_button_share.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_popup_active_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_popup_active_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_people_light_activated.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_people_light_activated.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\org.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\org.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_camera.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_camera.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\category.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\category.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachment.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attachment.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\img2.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\img2.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_recent_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_recent_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_camera_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\phoncall.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\phoncall.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_rec.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_rec.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\helpandfeed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\helpandfeed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_map_fullscreen_off_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_map_fullscreen_off_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_composer_top_divider.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_composer_top_divider.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\addlocation.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\addlocation.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchic.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\searchic.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cell_me_chat.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\cell_me_chat.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_navigation_arrow_back.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.miguelcatalan\\materialsearchview\\1.4.0\\res\\drawable-hdpi\\ic_action_navigation_arrow_back.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.viewpagerindicator\\library\\2.4.1\\res\\drawable-hdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sb_message.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\sb_message.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_location_icon.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_location_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\setting1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\callcontact.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\callcontact.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\all.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menu_new_chat.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\menu_new_chat.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\circlenoti.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\circlenoti.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_delete.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\about_hihello.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\about_hihello.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ranking.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ranking.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\balloon_incoming_frame_botshade.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\balloon_incoming_frame_botshade.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_close_press.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_close_press.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_objects_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_objects_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vr_icon_rec_press.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\vr_icon_rec_press.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sym_keyboard_delete_holo_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\sym_keyboard_delete_holo_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_more_front_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_more_front_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_all_friends_light.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_all_friends_light.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_emoji_category_people.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_emoji_category_people.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactplus1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contactplus1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\email1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\email1.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attach_location_pressed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attach_location_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ranking_cell.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ranking_cell.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attach_location.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\attach_location.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_table_cell_action_highlighted.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\icon_table_cell_action_highlighted.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\message_failed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\message_failed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactfrg.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\contactfrg.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\menuslider.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\menuslider.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_copy.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_copy.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pencil_black.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\pencil_black.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrowleft.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\arrowleft.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_map_fullscreen_on_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\btn_map_fullscreen_on_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_emoji_people_light_normal.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\ic_emoji_people_light_normal.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrowdown.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\arrowdown.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\refresh.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\aboutuss.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\aboutuss.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smily.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\smily.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_all_friends_dark.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_all_friends_dark.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_refresh.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\box4.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\box4.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rate_us.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\rate_us.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_delete.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mnu.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\mnu.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_overlay_incoming.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\video_overlay_incoming.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orca_attachments_arrow_reversed.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\yaxim4\\emojiconKeyboard\\unspecified\\res\\drawable-hdpi-v4\\orca_attachments_arrow_reversed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\post.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\post.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\status.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\status.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\minus1.png",
+        "source": "D:\\New folder (2)\\yaxim4\\namoNamoApp\\src\\main\\res\\drawable-hdpi\\minus1.png"
+    }
+]

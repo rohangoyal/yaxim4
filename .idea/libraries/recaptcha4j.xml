@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="recaptcha4j">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/namoNamoApp/libs/recaptcha4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

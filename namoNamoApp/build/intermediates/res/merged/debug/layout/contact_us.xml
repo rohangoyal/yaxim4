@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<include layout="@layout/toolbar"></include>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorAccent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight=".3"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageView6"
+                android:src="@drawable/logohihello"
+                android:layout_gravity="center_vertical" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight=".2"
+            android:layout_marginRight="10dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Hello!"
+                android:textColor="#fff"
+                android:fontFamily="sans-serif-condensed"
+                android:textStyle="bold"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:id="@+id/textView22" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="We'd love to get feedback from you on our app.The more details you can provide, the better"
+                android:textColor="#fff"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-condensed"
+                android:gravity="center"
+                android:id="@+id/textView25"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:background="#d3d3d3">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <android.support.design.widget.TextInputLayout
+                    android:layout_marginTop="30dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/profileid"
+                        android:inputType="textPersonName"
+                        android:textSize="18dp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:hint="Profile Name"
+                        android:textColorHint="#fff"
+
+                        />
+                </android.support.design.widget.TextInputLayout>
+                <android.support.design.widget.TextInputLayout
+                    android:layout_marginTop="30dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/Emailid"
+                        android:fontFamily="sans-serif-condensed"
+                        android:inputType="textPersonName"
+                        android:textColorHint="#ffffff"
+                        android:textSize="18dp"
+                        android:hint="Emailid"
+
+
+
+                        />
+                </android.support.design.widget.TextInputLayout>
+                <android.support.design.widget.TextInputLayout
+                    android:layout_marginTop="30dp"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/editText4"
+                        android:inputType="textPersonName"
+                        android:fontFamily="sans-serif-condensed"
+                        android:textColorHint="#ffffff"
+                        android:textSize="18dp"
+                        android:hint="Please leave detailed feedback"
+
+
+
+                        />
+                </android.support.design.widget.TextInputLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="SUBMIT"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:fontFamily="sans-serif-condensed"
+                    android:textColor="#fff"
+                    android:background="@drawable/btn_back"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginBottom="20dp"
+                    android:id="@+id/textView26"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="We will respond to your message soon."
+                    android:padding="10dp"
+                    android:fontFamily="sans-serif-condensed"
+                    android:layout_marginRight="25dp"
+                    android:layout_marginLeft="25dp"
+                    android:layout_marginTop="20dp"
+                    android:gravity="center"
+                    android:visibility="gone"
+                    android:id="@+id/textView26"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+        </ScrollView>
+
+
+    </LinearLayout>
+</LinearLayout>

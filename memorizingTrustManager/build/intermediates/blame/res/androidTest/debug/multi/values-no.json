@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-no\\values-no.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 72,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 72,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 64,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 64,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 79,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 79,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 77,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 77,
+                        "endOffset": 415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 53,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 420,
+                        "endColumn": 53,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 54,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 54,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 53,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 53,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 108,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endColumn": 108,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 61,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 61,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 101,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "D:\\New folder (2)\\yaxim4\\memorizingTrustManager\\build\\intermediates\\bundles\\debug\\res\\values-no\\values-no.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 101,
+                        "endOffset": 851
+                    }
+                }
+            }
+        ]
+    }
+]

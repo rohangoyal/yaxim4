@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- View styles -->
+	<attr name="MainGroup" format="reference" />
+	<attr name="MainChild" format="reference" />
+	<attr name="ErrorView" format="reference" />
+	<attr name="ChatText" format="reference" />
+	<attr name="dialogTextColor" format="reference" />
+	
+	<!-- Attributes -->
+	<attr name="ChatMsgHeaderMeColor" format="reference|color" />
+	<attr name="ChatMsgHeaderYouColor" format="reference|color" />
+	<attr name="OnlineFriends" format="reference" />
+	<attr name="AllFriends" format="reference" />
+	<attr name="ChatNewMessageColor" format="reference|color" />
+	<attr name="ChatStoredMessageColor" format="reference|color" />
+	<attr name="colorForeground" />
+	<declare-styleable name="CircularImageView">
+		<attr name="border" format="boolean"></attr>
+		<attr name="borderwidth" format="dimension"></attr>
+		<attr name="bordercolor" format="color"></attr>
+		<attr name="shadow" format="boolean"></attr>
+	</declare-styleable>
+	<declare-styleable name="Theme">
+		<attr name="circularImageViewStyle" format="reference"></attr>
+
+	</declare-styleable>
+
+	
+</resources>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:background="#ffffff"
+        android:orientation="vertical"
+        android:padding="3dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+            <com.hihello.app.activity.CircularImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:src="@drawable/defaultuser"
+                android:layout_marginLeft="10dp"
+                android:id="@+id/imageView2" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="username"
+                    android:fontFamily="sans-serif-condensed"
+                    android:textSize="18dp"
+                    android:textColor="#000000"
+                    android:padding="2dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+
+                    <ImageView
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:visibility="gone"
+                        android:id="@+id/imageView3" />
+                    <!--       <com.example.demo.CircularImageView
+                      android:id="@+id/statusimageid"
+                      android:layout_width="10dp"
+                      android:layout_height="10dp"
+                      android:src="@drawable/logo"
+
+                     />-->
+
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-condensed"
+                        android:text="new message line..." />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="right"
+                        android:layout_marginRight="10dp"
+                        android:fontFamily="sans-serif-condensed"
+                        android:text="Admin"
+                        android:id="@+id/textView38" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+
+        <!--<com.namonamo.app.activity.CircularImageView-->
+        <!--android:id="@+id/img_contact"-->
+        <!--android:layout_width="90dp"-->
+        <!--android:layout_height="90dp"-->
+        <!--android:scaleType="centerInside"-->
+        <!--android:src="@drawable/contact" />-->
+
+        <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical"-->
+        <!--android:paddingLeft="10dp"-->
+        <!--android:paddingRight="10dp"-->
+        <!--android:paddingTop="3dp" >-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/txt_name"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:padding="2dp"-->
+        <!--android:text="Medium Text"-->
+        <!--android:textAppearance="?android:attr/textAppearanceMedium" />-->
+
+        <!--<github.ankushsachdeva.emojicon.EmojiconTextView-->
+        <!--xmlns:emojicon="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/txt_status"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:ellipsize="end"-->
+        <!--android:padding="2dp"-->
+        <!--android:singleLine="true"-->
+        <!--android:text="TextView"-->
+        <!--emojicon:emojiconSize="@dimen/emoji_size_small" />-->
+        <!--</LinearLayout>-->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#d7d7d7"
+            android:layout_marginTop="2dp"
+            android:layout_marginLeft="80dp"></LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
+
+
+
+<!--<LinearLayout -->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:background="#fafafa"-->
+    <!--android:orientation="vertical" >-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="vertical" >-->
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:gravity="center_vertical"-->
+        <!--android:orientation="horizontal" >-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:orientation="horizontal" >-->
+         <!-- -->
+       <!--&lt;!&ndash;  <com.example.microsoft.deep.CircularImageView-->
+         <!--android:id="@+id/progressBar1"-->
+         <!--android:layout_width="90dp"-->
+         <!--android:layout_height="90dp"-->
+         <!--android:src="@drawable/logo"-->
+
+        <!--/>&ndash;&gt;-->
+
+
+            <!--<com.namonamo.app.activity.CircularImageView-->
+                <!--android:layout_width="60dp"-->
+                <!--android:layout_height="60dp"-->
+                <!--android:src="@drawable/contact"-->
+                <!--android:layout_marginLeft="10dp"-->
+                <!--android:id="@+id/imageView2" />-->
+        <!--</LinearLayout>-->
+
+
+
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_margin="10dp"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:orientation="vertical" >-->
+         <!-- -->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="left"-->
+            <!--android:orientation="horizontal" >-->
+             <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight=".2"-->
+            <!--android:orientation="horizontal" >-->
+        <!--<TextView-->
+            <!--android:id="@+id/textView1"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="username"-->
+            <!--android:textSize="18dp"-->
+            <!--android:textColor="#000000"-->
+            <!--android:padding="2dp" />-->
+        <!--</LinearLayout>-->
+         <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_weight=".2"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="right"-->
+            <!--android:orientation="horizontal" >-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/textView3"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="2 hours ago" />-->
+
+        <!--</LinearLayout>-->
+         <!-- -->
+        <!--</LinearLayout>-->
+
+         <!-- -->
+         <!-- -->
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:orientation="horizontal" >-->
+
+
+            <!--<ImageView-->
+                <!--android:layout_width="10dp"-->
+                <!--android:layout_height="10dp"-->
+                <!--android:src="@drawable/logo"-->
+                <!--android:id="@+id/imageView3" />-->
+       <!--&lt;!&ndash;       <com.example.demo.CircularImageView-->
+         <!--android:id="@+id/statusimageid"-->
+         <!--android:layout_width="10dp"-->
+         <!--android:layout_height="10dp"-->
+         <!--android:src="@drawable/logo"-->
+         <!-- -->
+        <!--/>&ndash;&gt;-->
+             <!-- -->
+        <!--<TextView-->
+            <!--android:id="@+id/textView2"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="new message line..." />-->
+        <!--</LinearLayout>-->
+         <!-- -->
+         <!-- -->
+               <!-- -->
+        <!--</LinearLayout> -->
+          <!-- -->
+    <!--</LinearLayout>-->
+
+
+
+        <!--<LinearLayout-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="1dp"-->
+            <!--android:background="#d7d7d7"-->
+            <!--android:layout_marginLeft="80dp">-->
+
+        <!--</LinearLayout>-->
+    <!--</LinearLayout>-->
+     <!-- -->
+<!--</LinearLayout>-->
+<!--</LinearLayout>-->

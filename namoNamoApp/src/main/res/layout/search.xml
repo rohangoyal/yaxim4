@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+    <ViewFlipper
+        android:id="@+id/viewFlipper2"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/toolbar">
+
+        <ImageView
+            android:id="@+id/banner"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+           />
+           <ImageView
+               android:id="@+id/banner1"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:scaleType="fitXY"
+               />
+           <ImageView
+               android:id="@+id/banner2"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:scaleType="fitXY"
+                />
+
+    </ViewFlipper>
+    <!--<ImageView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="120dp"-->
+        <!--android:id="@+id/imageView4"-->
+        <!--android:scaleType="fitXY"-->
+        <!--android:src="@drawable/add2"-->
+        <!--android:layout_marginTop="2dp"-->
+        <!--android:layout_below="@+id/toolbar"-->
+        <!--android:layout_alignParentLeft="true"-->
+        <!--android:layout_alignParentStart="true" />-->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/viewFlipper2">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView16"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/comingsoon"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+    <!--<TextView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:textAppearance="?android:attr/textAppearanceLarge"-->
+        <!--android:text="Coming Soon"-->
+        <!--android:textColor="@color/red"-->
+        <!--android:textSize="30dp"-->
+        <!--android:textStyle="bold"-->
+        <!--android:id="@+id/textView22"-->
+        <!--android:layout_below="@+id/imageView4"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginTop="168dp" />-->
+    <!--<ListView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/listView"-->
+        <!--android:layout_below="@+id/imageView4"-->
+        <!--android:dividerHeight="2dp"-->
+        <!--android:layout_gravity="center_horizontal" />-->
+
+</RelativeLayout>

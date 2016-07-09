@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80983556649",
+    "firebase_url": "https://hihello-81cae.firebaseio.com",
+    "project_id": "hihello-81cae",
+    "storage_bucket": "hihello-81cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80983556649:android:aac8911387996e4a",
+        "android_client_info": {
+          "package_name": "com.hiihello.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80983556649-07nrbqborvoe5ahr610fh8amqb7im9us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hiihello.app",
+            "certificate_hash": "045DE07459BDB139FACE7B02E681816219AEBE85"
+          }
+        },
+        {
+          "client_id": "80983556649-5618emnsqd7eg3g04qo2u28eqlpav5bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjTH052ZbbTYPON8MVhK_2lRQ2nF-cbo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80983556649-5618emnsqd7eg3g04qo2u28eqlpav5bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
